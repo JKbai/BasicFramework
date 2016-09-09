@@ -1,0 +1,16 @@
+platform :ios, '7.0'
+inhibit_all_warnings!
+
+target 'BasicFramework' do
+
+pod 'MBProgressHUD'
+
+pod 'MJRefresh'
+
+pod 'Masonry' #自动布局（代码实现）
+
+pod 'YYModel'
+
+pod 'YYWebImage'
+
+end
