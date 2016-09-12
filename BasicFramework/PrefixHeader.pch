@@ -16,6 +16,7 @@
 #import "CommonDefine.h"
 #import "HTTPURLDefine.h"
 #import "Theme.h"
+#import "Singleton.h"
 
 #import "Constants.h"
 

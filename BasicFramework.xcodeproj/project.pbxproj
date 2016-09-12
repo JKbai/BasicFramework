@@ -55,6 +55,7 @@
 		AB571E871D82A76D00B36F21 /* Theme.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Theme.h; sourceTree = "<group>"; };
 		AB571E881D82A7AF00B36F21 /* Constants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constants.h; sourceTree = "<group>"; };
 		AB571E891D82AB0C00B36F21 /* PrefixHeader.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = PrefixHeader.pch; path = ../../PrefixHeader.pch; sourceTree = "<group>"; };
+		AB6518061D86473E002303FB /* Singleton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Singleton.h; sourceTree = "<group>"; };
 		B293ED8129DC08E8B043567E /* Pods-BasicFramework.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BasicFramework.release.xcconfig"; path = "Pods/Target Support Files/Pods-BasicFramework/Pods-BasicFramework.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -199,6 +200,7 @@
 				AB571E851D82A6EA00B36F21 /* CommonDefine.h */,
 				AB571E861D82A74300B36F21 /* HTTPURLDefine.h */,
 				AB571E871D82A76D00B36F21 /* Theme.h */,
+				AB6518061D86473E002303FB /* Singleton.h */,
 			);
 			name = "Macros(宏)";
 			path = Macros;
